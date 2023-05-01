@@ -1,7 +1,7 @@
 
 ## Members
+Group 6
 
-
-1. Segio Cañar, s.canar@uniandes.edu.co, requerimiento 3.
-2. Juan Martin Vásquez, j.vasquezc@uniandes.edu.co, requerimiento 4
-3. Juan Bernardo Parra, j.parrah@uniandes.edu.co, requerimiento 5.
+1. Daniela Echavarria
+2. Juan Ardila
+3. Daniel Vargas Mayorg
